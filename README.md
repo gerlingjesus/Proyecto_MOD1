@@ -36,10 +36,15 @@ git checkout -b  <su nombre>
 | 6 | Beatriz?? | Se desapareció |
 | 7 | Evelyn | Dentro del cuerpo del "body" de la página se generó una sección de contenido reciente, en el cual se muestra un grupo de listas desordenadas que incluye un botón, cada opción se guarda en un "span" y cada uno de estos en un "section". |
 | 8 | Ricardo | Pie de página con estilos |
-
+### Mi repositorio individual_Gerling Jesús Pérez Hernández:
+    https://github.com/gerlingjesus/Proyecto_MOD1
+### Mi pagina individual_Gerling Jesús Pérez Hernández:
+    https://gerlingjesus.github.io/Proyecto_MOD1/
 
 ![Mi logo](https://i.imgur.com/HhoQJb5.png)
 
 [9anime]: <https://i.imgur.com/HhoQJb5.png>
 [Proyecto Final]: <https://github.com/ArgHero/ProyectoFinal>
+
+
 
